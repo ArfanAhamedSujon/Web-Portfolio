@@ -55,3 +55,36 @@ section{
 .dream-section{
     margin-top: 20px;
 }
+.single-experience{
+   box-shadow: 10px 10px 60px gray;
+   height: 80%;
+   /* margin-top: -130px; */
+}
+.single-experience h2{
+    margin-top: 50px;
+    color: orange;
+    font-weight: 500px;
+}
+.single-experience h3{
+    font-weight: 400px;
+    margin: 10px;
+}
+.experiance-area{
+    background-image: url(./img/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#baby-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,tomato);
+    border-image-slice: 1;
+}
+h4{
+    text-align: center;
+    font: 30px;
+}
